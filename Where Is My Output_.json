@@ -1,0 +1,76 @@
+{
+  "name": "Where Is My Output?",
+  "nodes": [
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        0,
+        0
+      ],
+      "id": "8dbd4149-1a8a-46dd-b53e-98eead961076",
+      "name": "When clicking ‘Execute workflow’"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "9dcc25db-50ca-4104-91e9-8df4e9ca01cf",
+              "name": "name",
+              "value": "Steven",
+              "type": "string"
+            },
+            {
+              "id": "87942c45-0764-4166-a120-e1d559b8752a",
+              "name": "sourceOfVideo",
+              "value": "Where is my output?",
+              "type": "string"
+            },
+            {
+              "id": "963310cb-4a9d-429c-8f88-56aa1dadd738",
+              "name": "timestamp",
+              "value": "={{ $now.setZone('Asia/Tokyo').toFormat('yyyy-MM-dd HH:mm:ss') }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        208,
+        0
+      ],
+      "id": "df5e77fd-db5a-45b5-a03c-15d16dda2b5e",
+      "name": "Edit Fields"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "When clicking ‘Execute workflow’": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "availableInMCP": false
+  },
+  "versionId": "4a81bbdc-0318-4c3d-91a2-b8df2cd57d3a",
+  "meta": {
+    "instanceId": "483b8951d7e3c6bc2c2ba2ce55148fd5f0879d95bf4f7bdc6e5df3307b3aece5"
+  },
+  "id": "SO3cXPLmSjROZgv9",
+  "tags": []
+}
