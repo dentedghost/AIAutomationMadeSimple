@@ -1,5 +1,5 @@
 # Commercial License for Enterprises (500+ Employees)
-Version 1.0 — © 2026 Steven Miller / Made Simple Workshop encompassing (IoT Made Simple, AI Made Simple)
+Version 1.0 — © 2025–2026 Steven Miller (MadeSimple Workshop)
 
 This Commercial License governs use of the Software by organizations with
 500 or more employees.
@@ -36,7 +36,7 @@ training data, reinforcement learning traces, or any derivative ML artifacts.
 ## 4. Attribution
 The Licensee must provide reasonable attribution in documentation or internal
 repositories:  
-“Derived from work by Steven Miller — Made Simple Workshop.”
+“Derived from work by Steven Miller — MadeSimple Workshop.”
 
 ## 5. Support (Optional)
 Sponsorship options (optional, non-contractual):  
@@ -48,6 +48,5 @@ Software is provided “AS IS” without warranty. Liability is limited to the
 amount paid for the license.
 
 ## 7. Contact
-To purchase a license or request invoicing:  
-[[📧 steven@iotmadesimple.com  
-🌐 https://iotmadesimple.com/licensing](https://iotmadesimple.com/)](https://iotmadesimple.com/) fill out Contact form.
+To purchase a license or request invoicing, contact
+**MadeSimple Workshop** at <https://github.com/MadeSimpleWorkshop>.

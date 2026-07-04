@@ -8,6 +8,6 @@ Commercial License grants:
 - permission to embed in paid products and services
 - permission for internal business use
 
-To purchase:
-Pricing: [iotmadesimple.com](https://iotmadesimple.com/contact.php)
-Company name + intended use + estimated users/customers
+To purchase, contact **MadeSimple Workshop** at
+<https://github.com/MadeSimpleWorkshop>. Include: company name, intended use,
+and estimated users/customers.
